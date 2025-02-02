@@ -1,0 +1,13 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    margin-bottom: 5px;
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+    background: linear-gradient(rgb(176, 205, 209), rgb(199, 199, 187)); 
+}
+button{
+    margin: 25px;
+}
